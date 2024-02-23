@@ -116,7 +116,7 @@ class CustomAvatar1 extends StatelessWidget {
         height: 100,
         //child: Image.network(Profile().user.avatar, fit: BoxFit.cover,),
         child: Image(
-          image: AssetImage('assets/images/tan.png'),
+          image: AssetImage('assets/images/1.gif'),
           fit: BoxFit.cover,
         ),
       ),

@@ -141,7 +141,7 @@ class Menuitemlist extends StatelessWidget {
                   height: size.height * 0.16,
                   width: size.width * 0.22,
                   child: Image(
-                    image: AssetImage('assets/images/tan.png'),
+                    image: AssetImage('assets/images/1.gif'),
                     fit: BoxFit.cover,
                   ),
                 ),
